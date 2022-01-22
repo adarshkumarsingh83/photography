@@ -17,6 +17,11 @@
  speed on the shutter to grab the shot  show the sutter speed it will be blure with tale fast the shutter speed more accurate pic 
 ```
 
+## NOTES
+* higher the shutter speed lower the apature 
+	* shutter will open and close fast then we need wide open lense to take more light using aptature 
+* lower the shutter spped and lower the apature for the dark picture 
+
 
 ![img](./image/trignagele.png)
 ![img](./image/image3.jpg.webp)
