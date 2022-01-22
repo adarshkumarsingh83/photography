@@ -18,7 +18,7 @@
 ```
 
 
-
+![img](./image/trignagele.png)
 ![img](./image/exposure-quick.png)
 ![img](./image/image1.gif)
 ![img](./image/image2.png)
@@ -26,4 +26,3 @@
 ![img](./image/image4.png)
 ![img](./image/photography-chart.png)
 ![img](./image/shutter-speed-chart-1.jpeg)
-![img](./image/trignagele.png)
