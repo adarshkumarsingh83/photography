@@ -19,11 +19,11 @@
 
 
 
-![img](exposure-quick.png)
-![img](image1.gif)
-![img](image2.png)
-![img](image3.jpg.webp)
-![img](image4.png)
-![img](photography-chart.png)
-![img](shutter-speed-chart-1.jpeg)
-![img](trignagele.png)
+![img](./image/exposure-quick.png)
+![img](./image/image1.gif)
+![img](./image/image2.png)
+![img](./image/image3.jpg.webp)
+![img](./image/image4.png)
+![img](./image/photography-chart.png)
+![img](./image/shutter-speed-chart-1.jpeg)
+![img](./image/trignagele.png)
