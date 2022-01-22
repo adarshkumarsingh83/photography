@@ -21,6 +21,7 @@
 * higher the shutter speed lower the apature 
 	* shutter will open and close fast then we need wide open lense to take more light using aptature 
 * lower the shutter spped and lower the apature for the dark picture 
+* take help of light exposer meter for know the under expose or over expose shots 
 
 ![img](./image/D7500.png)
 ![img](./image/d7500-1.png)
