@@ -23,6 +23,7 @@
 * lower the shutter spped and lower the apature for the dark picture 
 
 ![img](./image/D7500.png)
+![img](./image/d7500-1.png)
 ![img](./image/trignagele.png)
 ![img](./image/image3.jpg.webp)
 ![img](./image/image4.png)
