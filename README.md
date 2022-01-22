@@ -24,6 +24,5 @@
 ![img](./image/image1.gif)
 ![img](./image/exposure-quick.png)
 ![img](./image/photography-chart.png)
-
 ![img](./image/image2.png)
 ![img](./image/shutter-speed-chart-1.jpeg)
