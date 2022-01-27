@@ -6,6 +6,8 @@
  how much sensitive camera sensor will be for light ,higher the iso more brighter and 
  less sensitive the picture and more noise so it must be always low which give rich color for day and hight for the night time 
 ```
+![img](./image/iso-cheatsheet.png)
+
 ## aperture 
 ```
  how wide lense will open area for taking the shot, apature which will be set from F number low the number lense will open more 
