@@ -23,12 +23,14 @@
 * lower the shutter spped and lower the apature for the dark picture 
 * take help of light exposer meter for know the under expose or over expose shots 
 
+
 ![img](./image/D7500.png)
 ![img](./image/d7500-1.png)
 ![img](./image/trignagele.png)
 ![img](./image/image3.jpg.webp)
 ![img](./image/image4.png)
 ![img](./image/image1.gif)
+![img](./image/aso.png)
 ![img](./image/exposure-quick.png)
 ![img](./image/photography-chart.png)
 ![img](./image/image2.png)
