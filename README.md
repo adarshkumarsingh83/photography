@@ -33,3 +33,8 @@
 ![img](./image/photography-chart.png)
 ![img](./image/image2.png)
 ![img](./image/shutter-speed-chart-1.jpeg)
+
+
+## Focal length 
+* how much angle can lense cover while taking picture 
+![img](./image/focal-length.png)
