@@ -42,3 +42,24 @@
 ## Focal length 
 * how much angle can lense cover while taking picture 
 ![img](./image/focal-length.png)
+
+
+## brightness and darkness adjustment 
+* use + for the brightness effect on the image
+* use - for the darkness effect on the image
+
+## CAMERA MODES 
+* ISO MODE 
+```  
+set the Iso of the camera and rest aperture and  speed will be adjusted by camera 
+```
+
+* APERTURE MODE 
+```  
+set the Aperature of the camera and rest shutter speed and iso will be adjusted by camera 
+```
+
+* SHUTTER SPEED MODE 
+```  
+set the SHUTTER SPEED of the camera and rest aperture and iso will be adjusted by camera 
+```
